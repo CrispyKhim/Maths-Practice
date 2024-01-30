@@ -1,5 +1,5 @@
 # Maths Practice
-An interactive Python project testing one's mathematical abilities
+An interactive Python project testing one's **basic** mathematical abilities
 
 ## Background Information
 
